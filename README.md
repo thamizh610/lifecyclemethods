@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by: KARTHICK KISHORE T
-Registeration Number : 212223220042
+Developed by: THAMIZARASAN S
+Registeration Number : 212223220116
 */
 ```
 # activity_main.xml
